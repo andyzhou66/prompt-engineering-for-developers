@@ -1,6 +1,6 @@
 ![figures/readme.png](https://github.com/datawhalechina/prompt-engineering-for-developers/blob/main/figures/readme.jpeg)
 
-# prompt-engineering-for-developers
+# prompt-engineering-for-Developers
 
 ## 项目简介
 
